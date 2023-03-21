@@ -4,3 +4,4 @@ this is line 3 of practice commits
 this is line 4 of practice commits
 this is line 5 of practice commits
 this is line 6 of practice commits
+this is line 7 of practice commits
